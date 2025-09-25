@@ -1,0 +1,4 @@
+herefastapi
+uvicorn
+python-dotenv
+httpx
